@@ -1,1 +1,3 @@
-﻿new Creation();
+﻿using OOPRPG;
+
+new Creation();

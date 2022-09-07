@@ -2,7 +2,6 @@
 {
     internal class Data
     {
-        public List<Character>? Party;
-
+        public List<Character> Party = new();
     }
 }
